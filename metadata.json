@@ -1,0 +1,5 @@
+{
+  "name": "Python for Business Workshop Presentation",
+  "description": "An interactive presentation for an 8-hour workshop on 'Working with Data in Python for Business Decision Making', designed for first-year MBA students. The presentation covers NumPy, Pandas, data cleaning, aggregation, and merging, culminating in a data cleaning challenge.",
+  "requestFramePermissions": []
+}
